@@ -8,3 +8,8 @@
 
 - Specify the full path of `sniarbtej.jar`
   <br/> -javaagent:/Users/sniarbtej.jar=id=sniarbtej,user=Downloadly.ir,exp=2048-10-24,force=true
+
+> Note:
+
+- If Error `<app> Is Damaged and Can’t Be Opened. You Should Move It To The Trash` show on MAC upon opening the application. Type this on terminal<br/>
+  `xattr -c <path/to/application.app>`
