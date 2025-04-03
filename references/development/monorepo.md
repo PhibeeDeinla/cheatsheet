@@ -30,3 +30,5 @@ Others Repos:
 ## References
 
 - [MonoRepo Tools - monorepo.tools](https://monorepo.tools/)
+- [Building a Monorepo with Yarn Workspaces](https://blog.heroku.com/building-a-monorepo-with-yarn-2)
+- [Monorepos don't HAVE to be hard (...and why you should always use them)](https://www.youtube.com/watch?v=SOWx0vhoEGI)
